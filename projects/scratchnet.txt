@@ -1,0 +1,31 @@
+ _____                _       _                      _   
+/  ___|              | |     | |                    | |  
+\ `--.  ___ _ __ __ _| |_ ___| |__ ______ _ __   ___| |_ 
+ `--. \/ __| '__/ _` | __/ __| '_ \______| '_ \ / _ \ __|
+/\__/ / (__| | | (_| | || (__| | | |     | | | |  __/ |_ 
+\____/ \___|_|  \__,_|\__\___|_| |_|     |_| |_|\___|\__|
+                                                         
+                                                         
+                                                                                                  
+                                                                                                  
+Hello, and welcome to the info page! Here we will talk about how this works:
+
+0. How to reach us???
+Go to https://scratch.mit.edu/studios/30101293/comments to tell us what you want to do with your website.
+
+1. Cloud variables
+You can choose 2 options:
+a) Connect to the cloud - This will connect your project to the cloud
+b) Store locally - This will store the data in the cloud variables locally on the users computer. This is a very cool feature, because when you choose this option you can store text.
+
+2. Limitations
+You can choose 2 options:
+a) Keep the limitations
+b) Remove it. Like add infinite clones, longer lists etc...
+
+3. Custom colours:
+You can choose any colours for the variables and lists.
+
+4. What will my domain be?
+Your domain will be: https://scratchnet.github.io/network/projects/USERNAME/PROJECTNAME
+The variable: 'PROJECTNAME' can be changed by you. When you want to create a website please also put in the short name for the project.
