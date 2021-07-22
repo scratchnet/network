@@ -28,4 +28,5 @@ You can choose any colours for the variables and lists.
 
 4. What will my domain be?
 Your domain will be: https://scratchnet.github.io/network/projects/USERNAME/PROJECTNAME
-The variable: 'PROJECTNAME' can be changed by you. When you want to create a website please also put in the short name for the project.
+The variable: 'PROJECTNAME' will be your short name for the project. Like instead of: How to make videogames, it should say: how-to-make-games
+Remember to make it something you can remember!
