@@ -11,7 +11,7 @@
 Hello, and welcome to the info page! Here we will talk about how this works:
 
 0. How to reach us???
-Go to https://scratch.mit.edu/studios/30101293/comments to tell us what you want to do with your website.
+Email us at vgs.on.scratch@gmail.com and tell us what you want to do with your website.
 
 1. Cloud variables
 You can choose 2 options:
